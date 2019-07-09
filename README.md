@@ -1,6 +1,6 @@
 
 <!doctype html>
-<html lang="en">
+
 <head>
   <meta charset="utf-8">
   <title>Loikaw City Guide</title>
@@ -54,7 +54,7 @@
     <div class="swiper-pagination"></div>
       </div>
  <h1 align="center">Taung Kywe Pagoda in Loikaw</h1>
-    <p align="center"><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Taung Kwe Pagoda Entry is free but use of a camera is 300K or 500K, and 1000K for a video camera. Strangely a mobile phone camera was no charge, perhaps keep it out of sight anyway if there is a double cost. At night the temple is lit like a fairground with twinkling lights. Also a good place to weather watch or star gaze on darker platforms.</h3></p>
+    <p align="center"><h3>&nbsp;&nbsp;&nbsp;Taung Kwe Pagoda Entry is free but use of a camera is 300K or 500K, and 1000K for a video camera. Strangely a mobile phone camera was no charge, perhaps keep it out of sight anyway if there is a double cost. At night the temple is lit like a fairground with twinkling lights. Also a good place to weather watch or star gaze on darker platforms.</h3></p>
   <!-- Swiper JS -->
   <script src="swiper.min.js"></script>
 
